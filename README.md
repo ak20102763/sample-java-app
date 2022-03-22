@@ -2,4 +2,6 @@
 
 ## sample-java-app for snyk
 
+## triggering jenkins pipeline build through pull request trigger
+
 
